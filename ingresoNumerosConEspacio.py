@@ -25,4 +25,5 @@ pares,impares = calculo_pares_impares(lista)
 
 print("Números pares: ",pares)
 print("Números impares: ",impares)
+print("Hasta pronto!! ")
 
